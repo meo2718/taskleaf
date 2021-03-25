@@ -1,0 +1,15 @@
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.7.3/ext/bootsnap
+/Users/owner/.rbenv/versions/2.5.1/bin/ruby -I /Users/owner/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210324-31496-1v9eq9y.rb extconf.rb
+creating Makefile
+
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.7.3/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.7.3/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.7.3/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210324-31496-acpol3/bootsnap

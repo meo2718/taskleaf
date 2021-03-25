@@ -1,0 +1,15 @@
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/owner/.rbenv/versions/2.5.1/bin/ruby -I /Users/owner/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210324-31496-4b8cf2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/owner/workspace/runteq/genba_rails/taskleaf/taskleaf/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210324-31496-qnh39p
